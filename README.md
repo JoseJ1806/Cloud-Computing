@@ -1,4 +1,5 @@
-##Introduccion
+
+## Introducción
 Cloud Computing o nube informatica es el medio por el cual se ofrecen servicios a través de la conectividad y gran escala de Internet. Se diferencia de la tercerizacion y de modelos de proveedores de servicios de aplicacion debido a su multilocalizacion, permitiendo el aceeso a recursos de software de manera internacional, permitiendole al usuario tener todos los elementos de software de la computación en la nube que necesite, necesitando tener solo conexion a internet. El origen del Cloud Computing parece ser reciente ya que muchas de las Tecnologías de la Información y la Comunicación (TIC) han visto su actividad marcada por este servicio, pero sus primeros inicios pueden remontarse tan tarde como 1960.
 
 ```markdown
