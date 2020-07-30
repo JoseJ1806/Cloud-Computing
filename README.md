@@ -26,13 +26,29 @@ Se trata de servicios en los que la información se encuentra en servidores exte
 Como su nombre lo sugiere, esta nube esta constituida de una sola organización con su propia nube de servidores y software para la utilización sin un punto de acceso público. Este tipo de servicio es de acceso exclusivo de la empresa, haciendo que la localizacion de los datos en la propia empresa hace que estos cuenten con mayor protección y seguridad.
 
 ### Nube híbrida
-Estos servicios combinan los dos modelos anteriores de despliegue. La empresa dispone de un servicio de nuebe privada en su día a día pero para determinadas tareas necesita servicios de nube publica, con los que completar su sistema digital. Los beneficios de este tipo de nube son la seguridad y el control de la nube privada, unido con la flexibilidad y una inversion mas moderada.
+Estos servicios combinan los dos modelos anteriores de despliegue. La empresa dispone de un servicio de nube privada en su día a día pero para determinadas tareas necesita servicios de nube publica, con los que completar su sistema digital. Los beneficios de este tipo de nube son la seguridad y el control de la nube privada, unido con la flexibilidad y una inversion mas moderada.
+
+Sabiendo los distintos tipos de despliegue que estan a disposicion del desarrollador o empresa que desee usarlos, vamos a hablar sobre los modelos en cual se utilizan, siendo estos divididos en tres categorias:
+
+### SaaS
+El modelo SaaS(Software as a Service) se centra en tornar mas facil el acceso a la aplicación de software para el usuario por medio de una interfaz de navegador o de programa. Este modelo es una de las opciones más comunmente usadas para negocios en el mercado. Muchas de las aplicaciones que usan este modelo pueden correr directamente desde tu navegador web, lo cual significa que no necesitan de ninguna descarga o instalacion de parte del cliente. Debido a su modelo de entrega web, se eliminan en su mayor parte inconvenientes como lo son el tiempo y el dinero gastado en tareas como instalar,manejar y actualizar el software.
+
+### PaaS
+El modelo PaaS(Platform as a Service) puede aprovechar los beneficios de la computación en la nube mientras mantiene la libertad de desarrollar aplicaciones personalizadas del software. Los usuarios pueden acceder a PaaS de la misma manera que se hace con SaaS, con la diferencia de que PaaS provee una palataforma para la creación de software. Esta plataforma se entrega mediante la web, dandole a los desarrolladores la libertad de concentrarse en construir software sin tener que preocuparse por sistemas operativos, actualizaciones de software, almacenamiento o infraestructura.
+
+### IaaS
+El modelo IaaS(Infrastructure as a Service), proporciona a las organizaciones la capacidad de aprovechar recursos brutos del servidor mientras el restante de la administracion de la plataforma y del software es de responsabilidad de la empresa. La entrega de infraestructura de cloud computing,incluyendo servidores, redes, sistemas operativos y almacenamiento se realiza mediante tecnología de virtualización. Estos servidores en la nube son tipicamente entregados a la organización mediante un dashboard o un API, dandole a los cliente control completo sobre toda la infraestructura. Este modelo entrega las mismas tecnologias y capacidades de un data center tradicional sin tener que fisicamente darle mantenimiento. A diferencia de SaaS o PaaS, clientes de IaaS deben hacerse responsable de manejar aspectos tales como aplicaciones,tiempo de ejecución y datos. Es el modelo mas flexible de computación en la nube.
+
+## Conclusiones
+Habiendo investigado lo suficiente para llegar a una respuesta de donde se encuentra actualmente el estado de la computación en la nube se puede concluir que veremos este mercado seguir creciendo de forma exponencial, con el modelo de despliegue de nube pública.Los especialistas en cloud computing, como CiSGA, destacan que la tendencia de servicios de cloud computing será apostar por las nubes públicas. Explican que en los próximos años las nubes públicas van a ser las dominantes ya que se podrán entregar los servicios como una extensión del propio data center.
+
+## Recomendaciones
+Habiendo investigado lo suficiente para llegar a una respuesta de donde se encuentra actualmente el estado de la computación en la nube se puede concluir que veremos este mercado seguir creciendo de forma exponencial, con el modelo de despliegue de nube pública.Los especialistas en cloud computing, como CiSGA, destacan que la tendencia de servicios de cloud computing será apostar por las nubes públicas. Explican que en los próximos años las nubes públicas van a ser las dominantes ya que se podrán entregar los servicios como una extensión del propio data center.
+De mi experiencia recomendaria Google Cloud Platform para un desarrollador que quiere empezar en el mundo de la computación en la nube, su oferta gratuita por un año entero permite aprovechar al máximo el servicio. También recomendaria investigar un poco de las maneras de implementar código dependiendo del lenguaje en el que se este trabajando. Si se trabaja con Python recomiendo usar Flask, es versatil y fácil de usar una vez se sabe la documentación.
 
 
-
-
-
-
+## Referencias Bibliográficas
+¿Qué es Cloud Computing? (s. f.). Recuperado 29 de julio de 2020, de https://www.salesforce.com/mx/cloud-computing/
 
 
 
