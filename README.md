@@ -50,6 +50,13 @@ De mi experiencia recomendaria Google Cloud Platform para un desarrollador que q
 ## Referencias Bibliográficas
 ¿Qué es Cloud Computing? (s. f.). Recuperado 29 de julio de 2020, de [https://www.salesforce.com/mx/cloud-computing/](https://www.salesforce.com/mx/cloud-computing/)
 
+¿Conoces el origen del cloud computing o nube informática? (s. f.). Recuperado 29 de julio de 2020, de [https://www.cisga.es/conoces-origen-del-cloud-computing-nube-informatica/#:~:text=El%20origen%20del%20Cloud%20Computing,-El%20origen%20del&text=Otros%20autores%20atribuyen%20el%20concepto,y%20datos%20desde%20cualquier%20lugar](https://www.cisga.es/conoces-origen-del-cloud-computing-nube-informatica/#:~:text=El%20origen%20del%20Cloud%20Computing,-El%20origen%20del&text=Otros%20autores%20atribuyen%20el%20concepto,y%20datos%20desde%20cualquier%20lugar)
+
+¿Conoces el origen del cloud computing o nube informática? (s. f.). Recuperado 29 de julio de 2020, de [https://www.cisga.es/conoces-origen-del-cloud-computing-nube-informatica/#:~:text=El%20origen%20del%20Cloud%20Computing,-El%20origen%20del&text=Otros%20autores%20atribuyen%20el%20concepto,y%20datos%20desde%20cualquier%20lugar](https://www.cisga.es/conoces-origen-del-cloud-computing-nube-informatica/#:~:text=El%20origen%20del%20Cloud%20Computing,-El%20origen%20del&text=Otros%20autores%20atribuyen%20el%20concepto,y%20datos%20desde%20cualquier%20lugar)
+
+Watts, S., Muhammad, R. (2019, 15 junio). SaaS vs PaaS vs IaaS: What’s The Difference and How To Choose. Recuperado 29 de julio de 2020, de [https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
+
+
 
 
 ## Welcome to GitHub Pages
