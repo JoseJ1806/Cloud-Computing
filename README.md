@@ -48,7 +48,7 @@ De mi experiencia recomendaria Google Cloud Platform para un desarrollador que q
 
 
 ## Referencias Bibliográficas
-¿Qué es Cloud Computing? (s. f.). Recuperado 29 de julio de 2020, de https://www.salesforce.com/mx/cloud-computing/
+¿Qué es Cloud Computing? (s. f.). Recuperado 29 de julio de 2020, de [https://www.salesforce.com/mx/cloud-computing/](https://www.salesforce.com/mx/cloud-computing/)
 
 
 
